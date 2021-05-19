@@ -1,13 +1,12 @@
 # The Battle of Neighborhoods - New York
 ### 1. Introduction/Business Problem
 ### 2. Data Requirment
+### 3.Methodology
 
 ## Introduction/Business Problem
 
-This project is talking about the neighborhoods of New York. The major Target Audience would be business owners and stake holders who planning to start a mid-to high-end Italian
-restaurant in New York, this project would help them find the optimal location  <br>
-The Foursquare API is used to access the venues in the neighborhoods. Since, it returns less venues in the neighborhoods, 
-we would be analysing areas for which countable number of venues are obtained. Then they are clustered based on their venues using Data Science Techniques.
+This project is talking about the neighborhoods of New York. The major Target Audience would be business owners and stake holders who planning to start a Middle and high class  Italian restaurant in New York, this project would help them find the optimal location.  
+The Foursquare API is used to access the venues in the neighborhoods. Since, it returns less venues in the neighborhoods, we would be analysing areas for which countable number of venues are obtained. Then they are clustered based on their venues using Data Science Techniques.
 
 1. Due to the high cost of restaurant, this area should be one of the regions with high employment and high imcomes.
 2. Hope as many consumers as possible patronize the restaurant, so there should be a large and dense population nearby.
@@ -17,14 +16,14 @@ we would be analysing areas for which countable number of venues are obtained. T
 
 ## Data Requirment
 1. In order to obtain the venue details in each neighborhood of New York City, Foursquare API is used.
-   [Https://foursquare.com/](https://foursquare.com/)
+     [Https://foursquare.com/](https://foursquare.com/)
    * Borough
    * Neighborhood	
    * Latitude
    * Longitude
    * Venue Category data
 2. Acquire the other data as follows:
-   [https://data.cccnewyork.org/data](https://data.cccnewyork.org/data)
+    [https://data.cccnewyork.org/data](https://data.cccnewyork.org/data)    [wikipedia.org/wiki/Boroughs_of_New_York_City](https://em.m.wikipedia.org/wiki/Boroughs_of_New_York_City)
    * The population density of the boroughs of New York City
    * Number of New York Community
    * New York City Community Employment Rate
