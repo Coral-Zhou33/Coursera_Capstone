@@ -15,15 +15,16 @@ The Foursquare API is used to access the venues in the neighborhoods. Since, it 
 5. To ensure the safety of constomers and restaurant staff, select a low-risk area.
 
 ## Data Requirment
-1. In order to obtain the venue details in each neighborhood of New York City, Foursquare API is used.
-     [Https://foursquare.com/](https://foursquare.com/)
+1. In order to obtain the venue details in each neighborhood of New York City, Foursquare API is used. <br>
+     [https://foursquare.com/](https://foursquare.com/)
    * Borough
    * Neighborhood	
    * Latitude
    * Longitude
    * Venue Category data
-2. Acquire the other data as follows:
-    [https://data.cccnewyork.org/data](https://data.cccnewyork.org/data)    [wikipedia.org/wiki/Boroughs_of_New_York_City](https://em.m.wikipedia.org/wiki/Boroughs_of_New_York_City)
+2. Acquire the other data as follows: <br>
+    [https://data.cccnewyork.org/data](https://data.cccnewyork.org/data)  <br>
+    [wikipedia.org/wiki/Boroughs_of_New_York_City](https://em.m.wikipedia.org/wiki/Boroughs_of_New_York_City) <br>
    * The population density of the boroughs of New York City
    * Number of New York Community
    * New York City Community Employment Rate
