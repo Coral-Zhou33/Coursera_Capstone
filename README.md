@@ -22,14 +22,73 @@ The Foursquare API is used to access the venues in the neighborhoods. Since, it 
    * Latitude
    * Longitude
    * Venue Category data
+   
+   id| Borough   | Neighborhood |	Latitude	| Longitude
+   --|---------  |--------------|------------|-------------
+   0 |	Bronx  |	Wakefield	  | 40.894705	|-73.847201
+   1 |	Bronx  |	Co-op City  | 40.874294	|-73.829939
+   2 |	Bronx  |	Eastchester | 40.887556	|-73.827806
+   3 |	Bronx  |	Fieldston	  | 40.895437	|-73.905643
+   4 |	Bronx  |	Riverdale	  | 40.890834	|-73.912585
+
+     Name       |  Categories   | Lat         | Lng
+   -------------|-------------- |-------------|-------------
+   Bikram Yoga  |	Yoga Studio |	40.876844	 | -73.906204
+   Arturo's     | Pizza Place   |	40.874412	 | -73.910271
+   Tibbett Diner|	Diner	  | 40.880404	 | -73.908937
+   Dunkin'	 | Donut Shop    | 40.877136	 | -73.906666
+   Starbucks    |	Coffee Shop |	40.877531  | -73.905582
+
+
 2. Acquire the other data as follows: <br>
     [https://data.cccnewyork.org/data](https://data.cccnewyork.org/data)  <br>
     [wikipedia.org/wiki/Boroughs_of_New_York_City](https://em.m.wikipedia.org/wiki/Boroughs_of_New_York_City) <br>
    * The population density of the boroughs of New York City
-   * Number of New York Community
+   * Number of people in each New York Community
    * New York City Community Employment Rate
    * Median household income level
    * New York City reported felony rates
    * Community trust
-   
+ 
+ 
+   COMMUNITY DISTRICTS | Total Population         
+   --------------------|---------------------------
+   Astoria(Q01)	     | 166,069
+   Battery Park/Tribeca(M01) | 66,438
+   Bay Ridge(K10)  	| 121,925
+   Bayside(Q11)	     | 114,562
+   Bedford Park(B07)	| 151,684
+
+
+   COMMUNITY DISTRICTS | Employment Rate
+   --------------------|----------------------------
+   Astoria(Q01)	     | 69.0%
+   Battery Park/Tribeca(M01) | 73.3%
+   Bay Ridge(K10)	     | 58.1%
+   Bayside(Q11)	     | 59.7%
+   Bedford Park(B07)	| 61.4%
+
+   COMMUNITY DISTRICTS | All Households
+   --------------------|----------------------------
+   Astoria(Q01)	   | $79,180	
+   Battery Park/Tribeca(M01) | $162,092	
+   Bay Ridge(K10)	   | $76,569	
+   Bayside(Q11)	   | $92,682	
+   Bedford Park(B07)   |$41,336
+
+   COMMUNITY DISTRICTS |  Violent Felonies
+   --------------------|----------------------------
+   Astoria(Q01)    	   | 4.3
+   Battery Park/Tribeca(M01) | 2.7
+   Bay Ridge(K10) 	   | 1.6
+   Bayside(Q11)	   | 0.9
+   Bedford Park(B07)   | 5.9
+
+   COMMUNITY DISTRICTS | Community Trust
+   --------------------|----------------------------
+   Astoria(Q01)	   | 73.0%
+   Battery Park/Tribeca(M01)  | 70.0%
+   Bay Ridge(K10)	   | 74.0%
+   Bayside(Q11)	   | 86.0%
+   Bedford Park(B07)   | 63.0%
    
